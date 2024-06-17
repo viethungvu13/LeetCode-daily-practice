@@ -26,6 +26,7 @@ LeetCode is a fantastic platform to enhance your coding skills and prepare for t
    ```bash
    git clone https://github.com/viethungvu13/LeetCode-daily-practice.git
    cd LeetCode-daily-practice
+   cd solutions
 2. **Follow along or attempt the problems yourself before checking the solutions.**
 
 ## Contributing
