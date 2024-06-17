@@ -46,7 +46,7 @@ Contributions are welcome! If you have a better solution or additional insights,
 
 ## Contact
 - **Email:** [hungvv109@gmail.com](mailto:hungvv109@gmail.com)
-- **LinkedIn:** [Hung Vu](www.linkedin.com/in/hung-vu-70b472282)
+- **LinkedIn:** [Hung Vu](https://www.linkedin.com/in/hung-vu-70b472282/?originalSubdomain=vn)
 - **Facebook:** [My Facebook](https://www.facebook.com/viet.hunggg.13/)
 
 Happy Coding!
