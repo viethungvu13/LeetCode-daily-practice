@@ -1,5 +1,5 @@
 public class _4_Median_of_Two_Sorted_Arrays {
-    private static int[] merge(int[] nums1, int[] nums2) {
+    private int[] merge(int[] nums1, int[] nums2) {
         int[] result = new int[nums1.length + nums2.length];
         int index1 = 0;
         int index2 = 0;
@@ -30,7 +30,7 @@ public class _4_Median_of_Two_Sorted_Arrays {
         return result;
     }
 
-    private static double median(int[] nums) {
+    private double median(int[] nums) {
         int length = nums.length;
         if (length % 2 != 0) {
             return nums[length / 2];
@@ -38,7 +38,7 @@ public class _4_Median_of_Two_Sorted_Arrays {
         return ((double)nums[length / 2] + (double)nums[(length / 2) - 1]) / 2;
     }
 
-    public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if (nums1.length == 0) {
             return median(nums2);
         } else if (nums2.length == 0) {
