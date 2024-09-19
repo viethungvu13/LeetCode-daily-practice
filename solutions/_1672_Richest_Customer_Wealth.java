@@ -1,6 +1,5 @@
 public class _1672_Richest_Customer_Wealth {
     public int maximumWealth(int[][] accounts) {
-        int m = accounts.length;
         int n = accounts[0].length;
         int max = 0;
         for (int[] account : accounts) {

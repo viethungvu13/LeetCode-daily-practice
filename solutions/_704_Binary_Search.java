@@ -1,6 +1,5 @@
 public class _704_Binary_Search {
     public int search(int[] nums, int target, int iLeft, int iRight) {
-        int n = nums.length;
         if (iLeft > iRight)
             return -1;
         int iMid = (iLeft + iRight) / 2;
