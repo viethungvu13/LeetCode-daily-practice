@@ -7,8 +7,7 @@ Welcome to the **LeetCode Daily Practice** repository! This repository contains 
 1. [Introduction](#introduction)
 2. [Why Daily Practice?](#why-daily-practice)
 3. [How to Use This Repository](#how-to-use-this-repository)
-4. [Contributing](#contributing)
-5. [Contact](#contact)
+4. [Contact](#contact)
 
 ## Introduction
 
@@ -28,22 +27,6 @@ LeetCode is a fantastic platform to enhance your coding skills and prepare for t
    cd LeetCode-daily-practice
    cd solutions
 2. **Follow along or attempt the problems yourself before checking the solutions.**
-
-## Contributing
-
-Contributions are welcome! If you have a better solution or additional insights, feel free to open an issue or submit a pull request. Please ensure your contributions are well-documented and follow the existing structure.
-
-1. **Fork the repository**
-2. **Create a new branch**
-   ```bash
-   git checkout -b feature-your-feature-name
-3. **Commit your changes**
-   ```bash
-   git commit -m "Add some feature"
-4. **Push to the branch**
-   ```bash
-   git push origin feature-your-feature-name
-5. **Open a pull request**
 
 ## Contact
 - **Email:** [hungvv109@gmail.com](mailto:hungvv109@gmail.com)
